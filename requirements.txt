@@ -1,0 +1,6 @@
+streamlit==0.88.0
+torchaudio==0.10.0
+transformers==4.11.3
+librosa==0.8.1
+soundfile==0.10.3.post1
+torch==1.10.0
